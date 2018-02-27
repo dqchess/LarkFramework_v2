@@ -2,6 +2,10 @@
 using LarkFramework.Module;
 using LarkFramework.UI;
 using UnityEngine;
+using LarkFramework.FSM;
+using LarkFramework.Tick;
+using LarkFramework.Procedure;
+using LarkFramework.Scenes;
 
 namespace LarkFramework.GameEntry
 {
@@ -48,8 +52,6 @@ namespace LarkFramework.GameEntry
         private void DebugLaunch()
         {
             Debuger.EnableLog = true;
-
-            UIManager.Instance.OpenPage(UIDef.HomePage);
         }
 
         private void ReleaseLaunch()
@@ -60,6 +62,12 @@ namespace LarkFramework.GameEntry
         private void InitBuiltinComponents()
         {
             ModuleManager.Instance.Init("Project");
+
+            TickManager.Instance.Init();
+
+            FSMManager.Instance.Init();
+            //ProcedureManager.Instance.Init();
+            ScenesManager.Instance.Init();
 
             //SingletonMono<ResourcesMgr>.Create();
             UIManager.Instance.Init();
