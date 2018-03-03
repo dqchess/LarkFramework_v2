@@ -25,7 +25,7 @@ namespace PhotonServerDemo.Handler
             using (var db = new MySqlContext())
             {
                 var user = (from v in db.Sys_User
-                            where v.userName == userName && v.passWord==passWord
+                            where v.userName == "admin" && v.passWord=="123456"
                             select v).Single();
 
                 OperationResponse response = new OperationResponse(operationRequest.OperationCode);

@@ -1,99 +1,313 @@
-2018-02-05 09:29:20,690 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 09:29:20,703 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 09:29:20,704 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 09:29:52,935 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 09:30:29,432 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 09:31:09,856 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 09:31:45,122 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 09:51:43,818 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:04:34,660 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 10:04:34,674 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 10:04:34,675 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 10:05:04,157 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:05:52,638 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:07:30,329 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 10:07:30,344 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 10:07:30,345 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 10:08:17,869 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:08:28,837 [17] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:10:10,731 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 10:10:10,745 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 10:10:10,746 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 10:10:22,837 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:10:34,088 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:13:47,020 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:14:07,997 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 10:14:08,015 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 10:14:08,016 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 10:14:13,943 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:14:23,027 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:14:50,178 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:15:05,557 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:15:41,006 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:16:03,529 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:23:57,717 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:24:25,863 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:24:44,144 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:25:37,421 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:25:46,881 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 10:26:08,048 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:25:40,971 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 11:25:40,986 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 11:25:40,989 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 11:25:45,994 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:26:18,517 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:26:26,695 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:31:52,515 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:33:55,191 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 11:33:55,207 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 11:33:55,208 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 11:34:04,392 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:34:47,533 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:34:53,555 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:35:14,597 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:36:46,793 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:37:00,298 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:37:19,776 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:38:06,963 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:38:44,474 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:48:20,722 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:48:38,561 [24] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:52:30,628 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:52:43,269 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:53:31,647 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:55:04,856 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:55:16,844 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:56:11,468 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:56:47,631 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 11:57:01,102 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:44:51,771 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:45:49,590 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:46:42,984 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:47:22,854 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:47:29,123 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:48:04,650 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:48:40,176 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:50:25,179 [38] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:52:38,111 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:53:31,863 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 12:54:03,760 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:02:41,311 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:03:42,289 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:04:32,735 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:05:00,174 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:06:39,679 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 13:06:39,699 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 13:06:39,701 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 13:06:42,955 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:06:57,362 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:12:54,019 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:13:20,691 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:19:47,763 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
-2018-02-05 13:19:47,781 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
-2018-02-05 13:19:47,782 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
-2018-02-05 13:19:53,521 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:20:06,411 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:24:27,037 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:24:36,338 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:25:21,450 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
-2018-02-05 13:26:11,032 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 12:28:20,325 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:28:20,341 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:28:20,342 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:29:06,931 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:29:06,949 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:29:06,950 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:29:55,481 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:29:55,495 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:29:55,497 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:30:11,966 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:30:11,984 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:30:11,985 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:43:34,690 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:43:34,706 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:43:34,707 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:43:42,021 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 12:44:03,098 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:52521, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 12:47:16,489 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:47:16,506 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:47:16,507 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:48:30,676 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 12:48:30,691 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 12:48:30,692 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 12:48:36,641 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:17:16,383 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:17:16,413 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:17:16,414 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:17:39,415 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:17:49,155 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:59212, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:30:48,617 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:30:48,631 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:30:48,633 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:30:55,687 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:31:20,796 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:50431, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:34:22,036 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:50431, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:36:24,585 [16] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:50431, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:39:59,937 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:39:59,953 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:39:59,954 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:40:12,518 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:40:45,049 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:64707, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:43:24,138 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:43:24,155 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:43:24,156 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:43:27,536 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:46:33,593 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:46:33,608 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:46:33,609 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:46:38,821 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:47:30,995 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:47:31,010 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:47:31,011 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:47:38,665 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:49:54,726 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:49:54,742 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:49:54,743 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:49:57,612 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:55:33,099 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:55:33,119 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:55:33,120 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:55:45,313 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:56:30,383 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:56:30,404 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:56:30,405 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:56:32,658 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 13:58:47,346 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:0, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 13:59:14,234 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 13:59:14,251 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 13:59:14,252 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 13:59:20,638 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:01:53,083 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:01:53,100 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:01:53,101 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:01:55,634 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:02:12,033 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:62696, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: Migrations is enabled for context 'MySqlContext' but the database does not exist or contains no mapped tables. Use Migrations to create the database and its tables, for example by running the 'Update-Database' command from the Package Manager Console.
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:02:49,002 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:02:49,018 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:02:49,019 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:03:01,767 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:05:17,048 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:05:17,064 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:05:17,065 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:05:20,094 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:27:41,782 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:27:41,799 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:27:41,800 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:27:52,781 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:29:02,760 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:55347, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:29:04,188 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:55347, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:29:04,945 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:55347, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:29:30,620 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:29:30,636 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:29:30,637 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:29:41,243 [11] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:29:55,625 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:49273, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:29:57,002 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:49273, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:29:57,697 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:49273, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 14:35:47,929 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 14:35:47,944 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 14:35:47,945 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 14:35:54,016 [10] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 14:36:52,886 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:0, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 16:57:09,269 [1] INFO  PhotonServerDemo.ServerEntry - [Log]Init Completed!
+2018-03-03 16:57:09,313 [1] INFO  PhotonServerDemo.ServerEntry - [Server]Setup Completed!
+2018-03-03 16:57:09,314 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=PhotonServerDemo; AppPath=E:\Dev\LarkFramework_V2\Server\PhotonServer\deploy\PhotonServerDemo, Type=PhotonServerDemo.ServerEntry 
+2018-03-03 16:57:20,923 [9] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!
+2018-03-03 16:57:31,516 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:63127, Data: F3-02-01-00-02-01-73-00-05-61-64-6D-69-6E-02-73-00-06-31-32-33-34-35-36,
+Exception:System.InvalidOperationException: The model backing the 'MySqlContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.<>c__DisplayClass1.<InitializeDatabase>b__0()
+   在 System.Data.Entity.Internal.MigrationsChecker.IsMigrationsConfigured(InternalContext internalContext, Func`1 databaseExists)
+   在 System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   在 System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   在 System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   在 System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 PhotonServerDemo.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\LoginHandler.cs:行号 27
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 16:57:32,738 [9] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:Client,ConnId:0,ip:127.0.0.1:63127, Data: F3-02-03-00-01-00-69-00-00-00-00,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 PhotonServerDemo.Handler.SyncPositionHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, Client peer) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Handler\SyncPositionHandler.cs:行号 22
+   在 PhotonServerDemo.Client.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\LarkFramework_V2\Server\ServerDemo\PhotonServerDemo\Client.cs:行号 43
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2018-03-03 16:57:41,292 [9] INFO  PhotonServerDemo.ServerEntry - [Peer]Link Start!

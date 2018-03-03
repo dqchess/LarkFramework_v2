@@ -30,11 +30,8 @@ namespace LarkFramework.GameEntry
             Init();
         }
 
-        public void Init()
+        private void Start()
         {
-            InitBuiltinComponents();
-            InitCustomComponents();
-
             switch (lanuchType)
             {
                 case LaunchType.Debug:
@@ -45,6 +42,12 @@ namespace LarkFramework.GameEntry
                     ReleaseLaunch();
                     break;
             }
+        }
+
+        public void Init()
+        {
+            InitBuiltinComponents();
+            InitCustomComponents();
 
             DontDestroyOnLoad(gameObject);
         }
@@ -52,6 +55,7 @@ namespace LarkFramework.GameEntry
         private void DebugLaunch()
         {
             Debuger.EnableLog = true;
+            UIManager.Instance.OpenPage(startUI);
         }
 
         private void ReleaseLaunch()
