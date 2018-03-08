@@ -33,3 +33,5 @@ Thumbs.db
 /output
 /.vs
 /output
+/Server/PhotonServer/deploy/bin_Win64/log
+/Server/PhotonServer/deploy/log
